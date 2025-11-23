@@ -106,7 +106,6 @@ The application uses the [FakeStoreAPI](https://fakestoreapi.com/) for product d
 - ✅ Shipping calculation (mocked)
 - ✅ Pinia state management
 - ✅ TypeScript type safety
-- ✅ Loading states
 - ✅ Input validation
 
 ## Development
@@ -117,12 +116,6 @@ The project uses:
 - **Tailwind CSS** for utility-first styling
 - **Pinia** for state management
 
-## Deployment
-
-The application can be deployed to:
-- **Netlify**: Connect your GitHub repository and deploy automatically
-- **Vercel**: Import your repository and deploy
-- **GitHub Pages**: Use the `npm run build` command and deploy the `dist` folder
 
 ## License
 
